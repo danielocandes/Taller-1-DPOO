@@ -1,0 +1,13 @@
+tipo:Corriente:10000:10000.0
+tipo:Corriente pero mas caro:30000:2000.0
+tipo:Diesel:16000:8000.0
+tipo:Premium:20000:5000.0
+surtidor:Pancho Pistola:Corriente:0.0:Corriente pero mas caro:0.0:Diesel:0.0:Premium:0.0
+surtidor:Dj Bizcochito:Corriente:0.0:Corriente pero mas caro:0.0:Diesel:0.0:Premium:0.0
+surtidor:Antonio Vivaldi:Corriente:0.0:Corriente pero mas caro:0.0:Diesel:0.0:Premium:0.0
+surtidor:Dj Bizcochito:Corriente:0.0:Corriente pero mas caro:0.0:Diesel:0.0:Premium:0.0
+empleado:Antonio Vivaldi:0
+empleado:Dj Bizcochito:0
+empleado:Fernando de Magallanes:0
+empleado:Bartolomeo Chicote:0
+empleado:Pancho Pistola:0
