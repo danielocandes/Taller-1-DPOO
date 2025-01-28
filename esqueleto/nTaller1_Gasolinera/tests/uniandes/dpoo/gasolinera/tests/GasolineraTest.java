@@ -157,7 +157,7 @@ public class GasolineraTest
         // Cargar la gasolinera desde un archivo
         try
         {
-            g2 = Gasolinera.cargarEstado( new File( "./datostest/prueba.gas" ) );
+            g2 = Gasolinera.cargarEstado( new File( "nTaller1_Gasolinera/datostest/prueba.gas" ) );
         }
         catch( Exception e )
         {
